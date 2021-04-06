@@ -1,12 +1,18 @@
 name: "fma"
-title: "Facultad"
+title: "Facultad de Matematica Aplicada de la Universidad Externado de Colombia"
 description: |
   Facultad
 output_dir: "_site"
 navbar:
   right:
-    - text: "Home"
-      href: index.html
-    - text: "About"
-      href: about.html
+    - text: "Pregrado en Ciencia de Datos"
+      href: pregrado.html
+    - text: "Servicios Compartidos"
+      href: servicios.html
+    - text: "Centro de Datos y Decisiones"
+      href: cdd.html
+    - text: "Grupo de Investigacion en Matematica Aplicada"
+      href: investigacion.html
+    - text: "Escuela de Posgrados y Educacion Continuada"
+      href: posgrados.html  
 output: distill::distill_article
