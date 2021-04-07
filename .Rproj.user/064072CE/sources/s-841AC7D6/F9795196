@@ -3,7 +3,7 @@
     "path": "C:/Users/sanal/OneDrive - Universidad Externado de Colombia/Externado/CDD/fma/_site.yml",
     "project_path": "_site.yml",
     "type": "yaml",
-    "hash": "1432091638",
+    "hash": "1889576669",
     "contents": "",
     "dirty": false,
     "created": 1617750826784.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "20,0",
+        "cursorPosition": "1,26",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1617753856,
+    "lastKnownWriteTime": 1617754225,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1617753856227,
+    "last_content_update": 1617754225495,
     "read_only": false,
     "read_only_alternatives": []
 }
