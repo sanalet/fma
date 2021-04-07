@@ -1,9 +1,0 @@
----
-title: "Centro de Datos y Decisiones"
-description: |
-  "Aliados estratégicos para la toma de decisiones a partir de datos"
----
-  
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```

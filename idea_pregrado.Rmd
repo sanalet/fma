@@ -1,0 +1,7 @@
+---
+title: "Idea del pregrado"
+description: |
+  "Científicos de datos críticos y éticos"
+---
+
+![](pregrado.png)

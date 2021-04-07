@@ -1,9 +1,0 @@
----
-title: "Pregrado en Ciencia de Datos"
-description: |
-  "Científicos de datos críticos y éticos"
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```

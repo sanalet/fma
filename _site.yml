@@ -3,10 +3,16 @@ title: "Facultad de Matematica Aplicada"
 description: |
   Facultad
 output_dir: "_site"
+theme: externado.css
 navbar:
   right:
     - text: "Pregrado"
       href: pregrado.html
+      menu: 
+      - text: "Idea"
+        href: idea_pregrado.html
+      - text: "Plan de Estudios"
+        href: plan_estudios.html
     - text: "Servicios"
       href: servicios.html
     - text: "Consultoria"

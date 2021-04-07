@@ -1,0 +1,7 @@
+---
+title: "Plan de Estudios"
+description: |
+  "Científicos de datos críticos y éticos"
+---
+
+![](pregrado2.png)

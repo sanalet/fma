@@ -1,9 +1,0 @@
----
-title: "Escuela de Posgrados y Educación Continuada"
-description: |
-  "Cursos, diplomados, especializaciones y maestrías"
----
-  
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
