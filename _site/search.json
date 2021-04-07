@@ -6,7 +6,15 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-04-06T18:44:39-05:00"
+      "last_modified": "2021-04-06T19:05:29-05:00"
+    },
+    {
+      "path": "cdd.html",
+      "title": "Centro de Datos y Decisiones",
+      "description": "\"Aliados estratégicos para la toma de decisiones a partir de datos\"",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-04-06T19:05:31-05:00"
     },
     {
       "path": "index.html",
@@ -14,7 +22,47 @@
       "description": "El mañana del Departamento de Matemáticas\n",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-04-06T18:44:41-05:00"
+      "last_modified": "2021-04-06T19:05:32-05:00"
+    },
+    {
+      "path": "investigacion.html",
+      "title": "Grupo de Investigación en Matemática Aplicada",
+      "description": "\"Generación de conocimiento a partir de las matemáticas aplicadas (investigación académica y aplicada)\"",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-04-06T19:05:33-05:00"
+    },
+    {
+      "path": "laboratorio.html",
+      "title": "Laboratorio de Transformación Digital",
+      "description": "\"Soluciones tecnológicas a problemas concretos + innovación\"",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-04-06T19:05:34-05:00"
+    },
+    {
+      "path": "posgrados.html",
+      "title": "Escuela de Posgrados y Educación Continuada",
+      "description": "\"Cursos, diplomados, especializaciones y maestrías\"",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-04-06T19:05:35-05:00"
+    },
+    {
+      "path": "pregrado.html",
+      "title": "Pregrado en Ciencia de Datos",
+      "description": "\"Científicos de datos críticos y éticos\"",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-04-06T19:05:36-05:00"
+    },
+    {
+      "path": "servicios.html",
+      "title": "Servicios Compartidos a la Universidad",
+      "description": "\"Las matemáticas que cada quien necesite\"",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-04-06T19:05:38-05:00"
     }
   ],
   "collections": []

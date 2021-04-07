@@ -1,0 +1,9 @@
+---
+title: "Grupo de Investigación en Matemática Aplicada"
+description: |
+  "Generación de conocimiento a partir de las matemáticas aplicadas (investigación académica y aplicada)"
+---
+  
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
